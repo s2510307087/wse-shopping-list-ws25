@@ -12,3 +12,4 @@ paprika
 salat
 nutella
 bananen
+erdaepfel
