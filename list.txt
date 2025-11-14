@@ -21,3 +21,4 @@ erdaepfel
 wein
 cashews
 marillen
+bratwuerstel
